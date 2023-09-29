@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Plant Quiz Flashcards*
 
 Submitted by: **Yuvaraj Nagi**
 
